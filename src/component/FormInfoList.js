@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import FormInfo from './FormInfo';111111111
+import FormInfo from './FormInfo';
 
 class FormInfoList extends Component {
 
